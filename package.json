@@ -1,7 +1,7 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description The goal of this assigment is to build the back end for an e-commerce site by modifying starter code. The end result is a working Express.js API using Sequelize to interact with a MySQL database.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

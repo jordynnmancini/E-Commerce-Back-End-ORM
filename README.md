@@ -19,7 +19,7 @@ The user needs to install the `Express`, `Sequalize` & `MySQL` npm packages.
 This app does not currently have a way to test it.
 
 ## Usage 
-The user needs to have `node.js`,`mySQL`, & Insomnia (or a similar application - like Postman) installed on their local machine 
+The user needs to have `node.js`,`mySQL`, & `Insomnia` (or a similar application - like `Postman`) installed on their local machine 
 
 ## Contributing 
 This was done as a homework assignment for the Ohio State Coding Book Camp. Do not make changes to the master branch, but feel free to fork & play with this code.
